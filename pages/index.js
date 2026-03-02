@@ -1,6 +1,6 @@
 function Home(){
     segundoParagrafo()
-    return <h1>Porta publica em acesso</h1>
+    return <h1>Curso geral curso.dev</h1>
     
 }
 
