@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Curso geral curso.dev</h1>;
+  return <h1>Mudança de frase para testar servidor</h1>;
 }
 
 export default Home;
